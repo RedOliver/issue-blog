@@ -5,6 +5,7 @@
 ## 分类
 
 - [微信小程序](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Aweapp)
+- [HTML5](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Ahtml5)
 
 ## What can you do
 
