@@ -7,6 +7,7 @@
 - [微信小程序](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Aweapp)
 - [HTML5](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Ahtml5)
 - [JAVASCRIPT](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Ajavascript)
+  - [jQuery](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Ajquery)
 
 ## What can you do
 
