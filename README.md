@@ -2,7 +2,7 @@
 
 遇到的问题与解决方法，写博客不合适，还是发成 issue-blog方便
 
-## 分类
+## Category
 
 - [微信小程序](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Aweapp)
 - [HTML5](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Ahtml5)
