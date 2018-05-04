@@ -8,6 +8,8 @@
 - [HTML5](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Ahtml5)
 - [JAVASCRIPT](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Ajavascript)
   - [jQuery](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Ajquery)
+- 运维
+  - [ubuntu](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Aubuntu)
 
 ## What can you do
 
