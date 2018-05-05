@@ -8,9 +8,12 @@
 - [HTML5](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Ahtml5)
 - [CSS](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Acss)
 - [JAVASCRIPT](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Ajavascript)
+  - [phantomjs](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Aphantomjs)
   - [jQuery](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Ajquery)
+- [nodejs](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Anodejs)
 - 运维
   - [ubuntu](https://github.com/youngjuning/issue-blog/issues?q=is%3Aopen+is%3Aissue+label%3Aubuntu)
+
 ## What can you do
 
 1. 从作者解决的问题中吸取经验或直接解决问题
